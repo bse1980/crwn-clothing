@@ -2,6 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 // ReactComponent is special syntax in React for importing SVG
+// see https://create-react-app.dev/docs/adding-images-fonts-and-files/
 import { ReactComponent as Logo } from '../../assets/crown.svg';
 
 import './header.styles.scss';
